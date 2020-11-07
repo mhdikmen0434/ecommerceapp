@@ -1,0 +1,12 @@
+C:\Users\akilli\source\repos\ECommerceApp\ECommerceApp.Core\bin\Debug\ECommerceApp.Core.dll.config
+C:\Users\akilli\source\repos\ECommerceApp\ECommerceApp.Core\bin\Debug\ECommerceApp.Core.dll
+C:\Users\akilli\source\repos\ECommerceApp\ECommerceApp.Core\bin\Debug\ECommerceApp.Core.pdb
+C:\Users\akilli\source\repos\ECommerceApp\ECommerceApp.Core\bin\Debug\EntityFramework.dll
+C:\Users\akilli\source\repos\ECommerceApp\ECommerceApp.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\akilli\source\repos\ECommerceApp\ECommerceApp.Core\bin\Debug\EntityFramework.xml
+C:\Users\akilli\source\repos\ECommerceApp\ECommerceApp.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\akilli\source\repos\ECommerceApp\ECommerceApp.Core\obj\Debug\ECommerceApp.Core.csprojAssemblyReference.cache
+C:\Users\akilli\source\repos\ECommerceApp\ECommerceApp.Core\obj\Debug\ECommerceApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\akilli\source\repos\ECommerceApp\ECommerceApp.Core\obj\Debug\ECommerceApp.Core.csproj.CopyComplete
+C:\Users\akilli\source\repos\ECommerceApp\ECommerceApp.Core\obj\Debug\ECommerceApp.Core.dll
+C:\Users\akilli\source\repos\ECommerceApp\ECommerceApp.Core\obj\Debug\ECommerceApp.Core.pdb

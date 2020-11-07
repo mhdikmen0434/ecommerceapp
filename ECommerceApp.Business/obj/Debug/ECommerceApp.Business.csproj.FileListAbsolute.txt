@@ -1,0 +1,17 @@
+C:\Users\akilli\source\repos\ECommerceApp\ECommerceApp.Business\bin\Debug\ECommerceApp.Business.dll
+C:\Users\akilli\source\repos\ECommerceApp\ECommerceApp.Business\bin\Debug\ECommerceApp.Business.pdb
+C:\Users\akilli\source\repos\ECommerceApp\ECommerceApp.Business\bin\Debug\ECommerceApp.Core.dll
+C:\Users\akilli\source\repos\ECommerceApp\ECommerceApp.Business\bin\Debug\ECommerceApp.DataAccess.dll
+C:\Users\akilli\source\repos\ECommerceApp\ECommerceApp.Business\bin\Debug\ECommerceApp.Entities.dll
+C:\Users\akilli\source\repos\ECommerceApp\ECommerceApp.Business\bin\Debug\EntityFramework.dll
+C:\Users\akilli\source\repos\ECommerceApp\ECommerceApp.Business\bin\Debug\ECommerceApp.Core.pdb
+C:\Users\akilli\source\repos\ECommerceApp\ECommerceApp.Business\bin\Debug\ECommerceApp.Core.dll.config
+C:\Users\akilli\source\repos\ECommerceApp\ECommerceApp.Business\bin\Debug\ECommerceApp.DataAccess.pdb
+C:\Users\akilli\source\repos\ECommerceApp\ECommerceApp.Business\bin\Debug\ECommerceApp.DataAccess.dll.config
+C:\Users\akilli\source\repos\ECommerceApp\ECommerceApp.Business\bin\Debug\ECommerceApp.Entities.pdb
+C:\Users\akilli\source\repos\ECommerceApp\ECommerceApp.Business\bin\Debug\EntityFramework.xml
+C:\Users\akilli\source\repos\ECommerceApp\ECommerceApp.Business\obj\Debug\ECommerceApp.Business.csprojAssemblyReference.cache
+C:\Users\akilli\source\repos\ECommerceApp\ECommerceApp.Business\obj\Debug\ECommerceApp.Business.csproj.CoreCompileInputs.cache
+C:\Users\akilli\source\repos\ECommerceApp\ECommerceApp.Business\obj\Debug\ECommerceApp.Business.csproj.CopyComplete
+C:\Users\akilli\source\repos\ECommerceApp\ECommerceApp.Business\obj\Debug\ECommerceApp.Business.dll
+C:\Users\akilli\source\repos\ECommerceApp\ECommerceApp.Business\obj\Debug\ECommerceApp.Business.pdb

@@ -1,0 +1,14 @@
+﻿.card {
+    margin: 5px;
+}
+.main {
+    top: 5px;
+}
+
+.cart-product-counter {
+    height: calc(1.5em + 0.50rem);
+}
+
+body {
+    font-size: 11px;
+}

@@ -1,0 +1,42 @@
+﻿@model IEnumerable<ECommerceApp.Entities.Concrete.Product>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="container">
+    
+    <div class="row">
+        <div class="col-lg-7">
+            <div class="row">
+                @foreach (var product in @Model)
+                {
+                    <div class="card col-md-3">
+                        <img class="card-img-top" alt="@product.Name" style="height: 125px!important; width: 100%!important; display: block;" src="@product.ImageLocation" data-holder-rendered="true">
+                        <div class="card-body">
+                            <p class="card-text">@product.Name</p>
+                            <p class="card-text">@product.Price <span>&#8378;</span></p>
+                        </div>
+                        <div class="card-footer">
+                            <button data-productid="@product.Id" type="button" class="btn btn-sm btn-primary float-right product">Sepete Ekle</button>
+                        </div>
+                    </div>
+                }
+            </div>
+        </div>
+        <div class="col-lg-5">
+            <div class="row" >
+                <div class="card col-md-12" style="top: 10vh;">
+                    <div id="cart" class="card-body">
+                    </div>
+                    <div class="card-footer"><p id="totalPrice"></p></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section scripts
+{
+    <script src="~/MyScripts/Products.js"></script>
+}
